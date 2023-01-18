@@ -1,0 +1,8 @@
+C:\Users\ucenik\Documents\Raul Dominik Holik\Priprema2\Priprema2.3\Priprema2.3\bin\Debug\Priprema2.3.exe.config
+C:\Users\ucenik\Documents\Raul Dominik Holik\Priprema2\Priprema2.3\Priprema2.3\bin\Debug\Priprema2.3.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\Priprema2\Priprema2.3\Priprema2.3\bin\Debug\Priprema2.3.pdb
+C:\Users\ucenik\Documents\Raul Dominik Holik\Priprema2\Priprema2.3\Priprema2.3\obj\Debug\Priprema2.3.csproj.AssemblyReference.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\Priprema2\Priprema2.3\Priprema2.3\obj\Debug\Priprema2.3.csproj.SuggestedBindingRedirects.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\Priprema2\Priprema2.3\Priprema2.3\obj\Debug\Priprema2.3.csproj.CoreCompileInputs.cache
+C:\Users\ucenik\Documents\Raul Dominik Holik\Priprema2\Priprema2.3\Priprema2.3\obj\Debug\Priprema2.3.exe
+C:\Users\ucenik\Documents\Raul Dominik Holik\Priprema2\Priprema2.3\Priprema2.3\obj\Debug\Priprema2.3.pdb
